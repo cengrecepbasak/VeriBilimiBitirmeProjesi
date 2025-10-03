@@ -119,7 +119,7 @@ veri_bilimi_bitirme_projesi/
 ---
 
 ### 4️⃣ Veri Filtreleme & Sıralama Projesi
-Bu ödevde görselleştirme yerine **Python kodları** ve **Jupyter Notebook çıktıları** bulunur. Sonuçlar Jupyter Notebook içerisinde listenlenmiş ve yorumlanmıştır.
+Bu ödevde görselleştirme yerine **Python kodları** ve **Jupyter Notebook çıktıları** bulunur. Sonuçlar Jupyter Notebook içerisinde listelenmiş ve yorumlanmıştır.
 
 ---
 
